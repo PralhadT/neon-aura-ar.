@@ -7,7 +7,7 @@ The project turns real-time hand movements into interactive neon visuals, gestur
 ## 🚀 Live Demo
 
 👉 **Try it here:**
-**https://pralhadt.github.io/neon-aura-ar/**
+** https://pralhadt.github.io/neon-aura-ar./**
 
 > Allow camera access when prompted to experience the hand tracking effects.
 
