@@ -29,4 +29,3 @@ Everything runs completely on the client side with no backend required.
 * FPS and gesture tracking HUD
 * Real-time canvas rendering
 
-... (keep the rest of your README unchanged)
